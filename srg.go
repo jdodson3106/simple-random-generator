@@ -6,7 +6,7 @@ import (
 )
 
 const (
-	AlphaNums = "abcdefghijklmnopqrstuvwxyxABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+	AlphaNums = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 )
 
 func GenerateAlphaNumberic(length uint) string {
